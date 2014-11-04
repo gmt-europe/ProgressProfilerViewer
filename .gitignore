@@ -1,0 +1,10 @@
+/*.suo
+/*.user
+Thumbs.db
+/*.docstates
+/*.dotCover
+/_ReSharper*
+/*.DotSettings
+/packages
+/*.vsp
+/*.psess
